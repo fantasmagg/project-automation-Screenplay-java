@@ -1,0 +1,176 @@
+{
+  "uid" : "9158166ee41952a8",
+  "name" : "open spotifi",
+  "fullName" : "Examples: open spotifi",
+  "historyId" : "ff282c8fd036cf353263f6831e1a4853",
+  "time" : {
+    "start" : 1633122105436,
+    "stop" : 1633122112772,
+    "duration" : 7336
+  },
+  "description" : "  Optional description of the features",
+  "descriptionHtml" : "<p>Optional description of the features</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "  Optional description of the features",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given  open web spoti",
+      "time" : {
+        "start" : 1633122105440,
+        "stop" : 1633122111974,
+        "duration" : 6534
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "Then  read objet spotifai.json",
+      "time" : {
+        "start" : 1633122111975,
+        "stop" : 1633122111983,
+        "duration" : 8
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "And  seleciona Enero",
+      "time" : {
+        "start" : 1633122111984,
+        "stop" : 1633122112145,
+        "duration" : 161
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    }, {
+      "name" : "And  quit driver",
+      "time" : {
+        "start" : 1633122112145,
+        "stop" : 1633122112771,
+        "duration" : 626
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 4,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "tests"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-4JLOV31H"
+  }, {
+    "name" : "thread",
+    "value" : "3912@LAPTOP-4JLOV31H.main(1)"
+  }, {
+    "name" : "feature",
+    "value" : "Examples"
+  }, {
+    "name" : "story",
+    "value" : "open spotifi"
+  }, {
+    "name" : "suite",
+    "value" : "Examples"
+  }, {
+    "name" : "testClass",
+    "value" : "open spotifi"
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "classpath:Features/base.feature"
+  }, {
+    "name" : "package",
+    "value" : "Features.base_feature.Examples"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "9f59d908dc41797e",
+        "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/31/allure/#testresult/9f59d908dc41797e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1633122038561,
+          "stop" : 1633122045782,
+          "duration" : 7221
+        }
+      }, {
+        "uid" : "1f5f97f2f69af87",
+        "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/30/allure/#testresult/1f5f97f2f69af87",
+        "status" : "passed",
+        "time" : {
+          "start" : 1633121858222,
+          "stop" : 1633121861849,
+          "duration" : 3627
+        }
+      }, {
+        "uid" : "7664ae14c5a49148",
+        "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/29/allure/#testresult/7664ae14c5a49148",
+        "status" : "passed",
+        "time" : {
+          "start" : 1633073479123,
+          "stop" : 1633073484866,
+          "duration" : 5743
+        }
+      } ]
+    },
+    "tags" : [ "tests" ]
+  },
+  "source" : "9158166ee41952a8.json",
+  "parameterValues" : [ ]
+}

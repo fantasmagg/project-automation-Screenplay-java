@@ -1,0 +1,22 @@
+@Test
+
+ String filepath = "C:\\execl\\prueba.xlsx";
+
+       String searchText = readFile.getCellValue(filepath,"Hoja1",0,0);
+
+       System.out.println(searchText);
+
+       readFile.readExcel(filepath,"Hoja1");
+
+//       writeFile.writeCellValue(filepath,"Hoja1",0,1,"me muero");
+//
+//       readFile.readExcel(filepath,"Hoja1");
+
+
+
+<dependency>
+            <groupId>org.testng</groupId>
+            <artifactId>testng</artifactId>
+            <version>7.4.0</version>
+            <scope>test</scope>
+        </dependency>

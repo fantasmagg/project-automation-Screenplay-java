@@ -1,0 +1,97 @@
+[ {
+  "buildOrder" : 32,
+  "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/32/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 31,
+  "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/31/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 30,
+  "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/30/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 29,
+  "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/29/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 28,
+  "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/28/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 27,
+  "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/27/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 26,
+  "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/26/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 23,
+  "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/23/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Test defects" : 2
+  }
+}, {
+  "buildOrder" : 22,
+  "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/22/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Test defects" : 2
+  }
+}, {
+  "buildOrder" : 20,
+  "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/20/allure",
+  "reportName" : "AllureReport",
+  "data" : {
+    "Test defects" : 1
+  }
+}, {
+  "buildOrder" : 19,
+  "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/19/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 12,
+  "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/12/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 11,
+  "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/11/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 10,
+  "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/10/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 9,
+  "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/9/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 8,
+  "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/8/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 7,
+  "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/7/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+}, {
+  "buildOrder" : 6,
+  "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/6/allure",
+  "reportName" : "AllureReport",
+  "data" : { }
+} ]

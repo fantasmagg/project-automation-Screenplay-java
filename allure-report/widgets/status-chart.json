@@ -1,0 +1,11 @@
+[ {
+  "uid" : "9158166ee41952a8",
+  "name" : "open spotifi",
+  "time" : {
+    "start" : 1633122105436,
+    "stop" : 1633122112772,
+    "duration" : 7336
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

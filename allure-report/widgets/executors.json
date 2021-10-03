@@ -1,0 +1,10 @@
+[ {
+  "name" : "Jenkins",
+  "type" : "jenkins",
+  "url" : "http://localhost:8080/",
+  "buildOrder" : 32,
+  "buildName" : "Curso Selenium java Test #32",
+  "buildUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/32/",
+  "reportName" : "AllureReport",
+  "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/32/allure"
+} ]

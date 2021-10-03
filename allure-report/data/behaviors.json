@@ -1,0 +1,26 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Examples",
+    "children" : [ {
+      "name" : "open spotifi",
+      "children" : [ {
+        "name" : "open spotifi",
+        "uid" : "9158166ee41952a8",
+        "parentUid" : "b565d902a55a157bd996afcbcaa216e7",
+        "status" : "passed",
+        "time" : {
+          "start" : 1633122105436,
+          "stop" : 1633122112772,
+          "duration" : 7336
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b565d902a55a157bd996afcbcaa216e7"
+    } ],
+    "uid" : "0bf262c78f2dddfe581a58c46a70dc1f"
+  } ]
+}

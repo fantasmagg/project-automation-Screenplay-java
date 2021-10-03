@@ -1,0 +1,636 @@
+{
+  "ff282c8fd036cf353263f6831e1a4853" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 4,
+      "unknown" : 0,
+      "total" : 4
+    },
+    "items" : [ {
+      "uid" : "9158166ee41952a8",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/32/allure/#testresult/9158166ee41952a8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633122105436,
+        "stop" : 1633122112772,
+        "duration" : 7336
+      }
+    }, {
+      "uid" : "9f59d908dc41797e",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/31/allure/#testresult/9f59d908dc41797e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633122038561,
+        "stop" : 1633122045782,
+        "duration" : 7221
+      }
+    }, {
+      "uid" : "1f5f97f2f69af87",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/30/allure/#testresult/1f5f97f2f69af87",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633121858222,
+        "stop" : 1633121861849,
+        "duration" : 3627
+      }
+    }, {
+      "uid" : "7664ae14c5a49148",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/29/allure/#testresult/7664ae14c5a49148",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633073479123,
+        "stop" : 1633073484866,
+        "duration" : 5743
+      }
+    } ]
+  },
+  "14a3737a6cd81ee296ad464923fde901" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 13,
+      "unknown" : 0,
+      "total" : 14
+    },
+    "items" : [ {
+      "uid" : "12c67ba3834993f1",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/28/allure/#testresult/12c67ba3834993f1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632798428009,
+        "stop" : 1632798438961,
+        "duration" : 10952
+      }
+    }, {
+      "uid" : "eb019b9256e6678a",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/27/allure/#testresult/eb019b9256e6678a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632797873554,
+        "stop" : 1632797884122,
+        "duration" : 10568
+      }
+    }, {
+      "uid" : "db100a6c350cfece",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/26/allure/#testresult/db100a6c350cfece",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632797355796,
+        "stop" : 1632797363127,
+        "duration" : 7331
+      }
+    }, {
+      "uid" : "996cd508a84d25ba",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/23/allure/#testresult/996cd508a84d25ba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632683139298,
+        "stop" : 1632683149769,
+        "duration" : 10471
+      }
+    }, {
+      "uid" : "e2a20aebafdd543c",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/22/allure/#testresult/e2a20aebafdd543c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632683139298,
+        "stop" : 1632683149769,
+        "duration" : 10471
+      }
+    }, {
+      "uid" : "f2d3cc7ae19945b3",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/20/allure/#testresult/f2d3cc7ae19945b3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632683139298,
+        "stop" : 1632683149769,
+        "duration" : 10471
+      }
+    }, {
+      "uid" : "619d92af49b5cde1",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/19/allure/#testresult/619d92af49b5cde1",
+      "status" : "skipped",
+      "statusDetails" : "session not created: This version of ChromeDriver only supports Chrome version 90\nCurrent browser version is 93.0.4577.82 with binary path C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\nBuild info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'\nSystem info: host: 'LAPTOP-4JLOV31H', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.8'\nDriver info: driver.version: CreateDriver\nremote stacktrace: Backtrace:\n\tOrdinal0 [0x00DEC013+2474003]\n\tOrdinal0 [0x00D829C1+2042305]\n\tOrdinal0 [0x00C92F68+1060712]\n\tOrdinal0 [0x00CB188E+1185934]\n\tOrdinal0 [0x00CAD600+1168896]\n\tOrdinal0 [0x00CAAA83+1157763]\n\tOrdinal0 [0x00CDA2A2+1352354]\n\tOrdinal0 [0x00CD8FAA+1347498]\n\tOrdinal0 [0x00CD66DB+1337051]\n\tOrdinal0 [0x00CB3427+1192999]\n\tOrdinal0 [0x00CB42EE+1196782]\n\tOrdinal0 [0x00CB4279+1196665]\n\tGetHandleVerifier [0x00F796FC+1590332]\n\tGetHandleVerifier [0x01028614+2306900]\n\tGetHandleVerifier [0x00E79E93+543699]\n\tGetHandleVerifier [0x00E792CE+540686]\n\tOrdinal0 [0x00D886BA+2066106]\n\tOrdinal0 [0x00D8D1C8+2085320]\n\tOrdinal0 [0x00D8D308+2085640]\n\tOrdinal0 [0x00D967F3+2123763]\n\tBaseThreadInitThunk [0x7591FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77027A9E+286]\n\tRtlGetAppContainerNamedObjectPath [0x77027A6E+238]\n",
+      "time" : {
+        "start" : 1632683043830,
+        "stop" : 1632683045415,
+        "duration" : 1585
+      }
+    }, {
+      "uid" : "dc1fa6213b0adf0f",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/12/allure/#testresult/dc1fa6213b0adf0f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617371664314,
+        "stop" : 1617371675851,
+        "duration" : 11537
+      }
+    }, {
+      "uid" : "617aaf4b074022d0",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/11/allure/#testresult/617aaf4b074022d0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617371254432,
+        "stop" : 1617371265733,
+        "duration" : 11301
+      }
+    }, {
+      "uid" : "20fdaa234892ff02",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/10/allure/#testresult/20fdaa234892ff02",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617342524056,
+        "stop" : 1617342536395,
+        "duration" : 12339
+      }
+    }, {
+      "uid" : "a02ff32d3a9953d4",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/9/allure/#testresult/a02ff32d3a9953d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617203864541,
+        "stop" : 1617203874546,
+        "duration" : 10005
+      }
+    }, {
+      "uid" : "39e7214bdca50d1c",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/8/allure/#testresult/39e7214bdca50d1c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616639335579,
+        "stop" : 1616639344104,
+        "duration" : 8525
+      }
+    }, {
+      "uid" : "7bfe14f2085cd4bc",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/7/allure/#testresult/7bfe14f2085cd4bc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616637176465,
+        "stop" : 1616637188312,
+        "duration" : 11847
+      }
+    }, {
+      "uid" : "4b929a0428a9fcda",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/6/allure/#testresult/4b929a0428a9fcda",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616636916100,
+        "stop" : 1616636927865,
+        "duration" : 11765
+      }
+    } ]
+  },
+  "9f6f668864d2785a7121fa9095b56dc" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "e4764fac4d8d114",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/28/allure/#testresult/e4764fac4d8d114",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632798444874,
+        "stop" : 1632798449520,
+        "duration" : 4646
+      }
+    }, {
+      "uid" : "663e37ea2938b2fa",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/27/allure/#testresult/663e37ea2938b2fa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632797889233,
+        "stop" : 1632797894242,
+        "duration" : 5009
+      }
+    }, {
+      "uid" : "153f16ca89c880a0",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/26/allure/#testresult/153f16ca89c880a0",
+      "status" : "skipped",
+      "statusDetails" : "timeout: Timed out receiving message from renderer: 300.000\n  (Session info: chrome=93.0.4577.82)\nBuild info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'\nSystem info: host: 'LAPTOP-4JLOV31H', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.8'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 93.0.4577.82, chrome: {chromedriverVersion: 93.0.4577.63 (ff5c0da2ec0ad..., userDataDir: C:\\Windows\\TEMP\\scoped_dir1...}, goog:chromeOptions: {debuggerAddress: localhost:59083}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 7b3fe2bdb761a64d1447e2cf1278e814",
+      "time" : {
+        "start" : 1632797367716,
+        "stop" : 1632797669568,
+        "duration" : 301852
+      }
+    } ]
+  },
+  "955b3b6aeed2b9e43e7d70b84110cbd" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "757c3752434aef42",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/23/allure/#testresult/757c3752434aef42",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632796008615,
+        "stop" : 1632796021168,
+        "duration" : 12553
+      }
+    }, {
+      "uid" : "64e39c940ccee4ae",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/22/allure/#testresult/64e39c940ccee4ae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632795624761,
+        "stop" : 1632795632448,
+        "duration" : 7687
+      }
+    } ]
+  },
+  "3b57ae4f9a5afc3ea499166e28b11b83" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b6d7f86a1a9710ed",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/12/allure/#testresult/b6d7f86a1a9710ed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617371706839,
+        "stop" : 1617371730289,
+        "duration" : 23450
+      }
+    } ]
+  },
+  "5360257394d4b05601b7d73314e20c40" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "76754cf326a7ab3a",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/12/allure/#testresult/76754cf326a7ab3a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617371694258,
+        "stop" : 1617371706839,
+        "duration" : 12581
+      }
+    } ]
+  },
+  "ed6137d73cdd7977dbc85a3c28ebab82" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "a1808a57bf36f279",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/23/allure/#testresult/a1808a57bf36f279",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632796025766,
+        "stop" : 1632796031529,
+        "duration" : 5763
+      }
+    }, {
+      "uid" : "d7d2663102be65bf",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/22/allure/#testresult/d7d2663102be65bf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632775003752,
+        "stop" : 1632775009577,
+        "duration" : 5825
+      }
+    } ]
+  },
+  "3eb32b4f77f23cc1e59f64f8faf7bcdb" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 13,
+      "unknown" : 0,
+      "total" : 14
+    },
+    "items" : [ {
+      "uid" : "de7bfba999d0a410",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/28/allure/#testresult/de7bfba999d0a410",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632798439063,
+        "stop" : 1632798444856,
+        "duration" : 5793
+      }
+    }, {
+      "uid" : "4ae9f1ceb7ddf1f",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/27/allure/#testresult/4ae9f1ceb7ddf1f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632797884191,
+        "stop" : 1632797889216,
+        "duration" : 5025
+      }
+    }, {
+      "uid" : "c9335629857ad6a1",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/26/allure/#testresult/c9335629857ad6a1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632797363242,
+        "stop" : 1632797367698,
+        "duration" : 4456
+      }
+    }, {
+      "uid" : "765806f98f57a971",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/23/allure/#testresult/765806f98f57a971",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632683149844,
+        "stop" : 1632683155017,
+        "duration" : 5173
+      }
+    }, {
+      "uid" : "2be79224cf45f08f",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/22/allure/#testresult/2be79224cf45f08f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632683149844,
+        "stop" : 1632683155017,
+        "duration" : 5173
+      }
+    }, {
+      "uid" : "9703099dbe4fc47b",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/20/allure/#testresult/9703099dbe4fc47b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632683149844,
+        "stop" : 1632683155017,
+        "duration" : 5173
+      }
+    }, {
+      "uid" : "19490b89b2994d01",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/19/allure/#testresult/19490b89b2994d01",
+      "status" : "skipped",
+      "statusDetails" : "session not created: This version of ChromeDriver only supports Chrome version 90\nCurrent browser version is 93.0.4577.82 with binary path C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\nBuild info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'\nSystem info: host: 'LAPTOP-4JLOV31H', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.8'\nDriver info: driver.version: CreateDriver\nremote stacktrace: Backtrace:\n\tOrdinal0 [0x00DEC013+2474003]\n\tOrdinal0 [0x00D829C1+2042305]\n\tOrdinal0 [0x00C92F68+1060712]\n\tOrdinal0 [0x00CB188E+1185934]\n\tOrdinal0 [0x00CAD600+1168896]\n\tOrdinal0 [0x00CAAA83+1157763]\n\tOrdinal0 [0x00CDA2A2+1352354]\n\tOrdinal0 [0x00CD8FAA+1347498]\n\tOrdinal0 [0x00CD66DB+1337051]\n\tOrdinal0 [0x00CB3427+1192999]\n\tOrdinal0 [0x00CB42EE+1196782]\n\tOrdinal0 [0x00CB4279+1196665]\n\tGetHandleVerifier [0x00F796FC+1590332]\n\tGetHandleVerifier [0x01028614+2306900]\n\tGetHandleVerifier [0x00E79E93+543699]\n\tGetHandleVerifier [0x00E792CE+540686]\n\tOrdinal0 [0x00D886BA+2066106]\n\tOrdinal0 [0x00D8D1C8+2085320]\n\tOrdinal0 [0x00D8D308+2085640]\n\tOrdinal0 [0x00D967F3+2123763]\n\tBaseThreadInitThunk [0x7591FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77027A9E+286]\n\tRtlGetAppContainerNamedObjectPath [0x77027A6E+238]\n",
+      "time" : {
+        "start" : 1632683045500,
+        "stop" : 1632683046524,
+        "duration" : 1024
+      }
+    }, {
+      "uid" : "13a82ec510b07699",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/12/allure/#testresult/13a82ec510b07699",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617371675915,
+        "stop" : 1617371682631,
+        "duration" : 6716
+      }
+    }, {
+      "uid" : "f807b930d1807469",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/11/allure/#testresult/f807b930d1807469",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617371265801,
+        "stop" : 1617371271919,
+        "duration" : 6118
+      }
+    }, {
+      "uid" : "4ea15dc96e599bcb",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/10/allure/#testresult/4ea15dc96e599bcb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617342536471,
+        "stop" : 1617342540241,
+        "duration" : 3770
+      }
+    }, {
+      "uid" : "4f43c7c791b59e5d",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/9/allure/#testresult/4f43c7c791b59e5d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617203874633,
+        "stop" : 1617203882860,
+        "duration" : 8227
+      }
+    }, {
+      "uid" : "4d2a7e7a1b61a8eb",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/8/allure/#testresult/4d2a7e7a1b61a8eb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616639344174,
+        "stop" : 1616639352567,
+        "duration" : 8393
+      }
+    }, {
+      "uid" : "4e94b92b001ff542",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/7/allure/#testresult/4e94b92b001ff542",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616637188382,
+        "stop" : 1616637195088,
+        "duration" : 6706
+      }
+    }, {
+      "uid" : "914f44ca54121f7b",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/6/allure/#testresult/914f44ca54121f7b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616636927976,
+        "stop" : 1616636935803,
+        "duration" : 7827
+      }
+    } ]
+  },
+  "b5230a8ef600e9cce33a3aea3488734c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 3,
+      "skipped" : 1,
+      "passed" : 7,
+      "unknown" : 0,
+      "total" : 11
+    },
+    "items" : [ {
+      "uid" : "1e085a1e3b2f966a",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/23/allure/#testresult/1e085a1e3b2f966a",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for presence of element located by: By.xpath: //body/div[@id='__next']/main[1]/div[2]/form[1]/div[1]/div[2]/span[1] (tried for 15 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1632683155034,
+        "stop" : 1632683173603,
+        "duration" : 18569
+      }
+    }, {
+      "uid" : "82e5ed5213324fd6",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/22/allure/#testresult/82e5ed5213324fd6",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for presence of element located by: By.xpath: //body/div[@id='__next']/main[1]/div[2]/form[1]/div[1]/div[2]/span[1] (tried for 15 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1632683155034,
+        "stop" : 1632683173603,
+        "duration" : 18569
+      }
+    }, {
+      "uid" : "d319a63eefff53ac",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/20/allure/#testresult/d319a63eefff53ac",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for presence of element located by: By.xpath: //body/div[@id='__next']/main[1]/div[2]/form[1]/div[1]/div[2]/span[1] (tried for 15 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1632683155034,
+        "stop" : 1632683173603,
+        "duration" : 18569
+      }
+    }, {
+      "uid" : "e4307634f769b691",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/19/allure/#testresult/e4307634f769b691",
+      "status" : "skipped",
+      "statusDetails" : "session not created: This version of ChromeDriver only supports Chrome version 90\nCurrent browser version is 93.0.4577.82 with binary path C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\nBuild info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'\nSystem info: host: 'LAPTOP-4JLOV31H', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.8'\nDriver info: driver.version: CreateDriver\nremote stacktrace: Backtrace:\n\tOrdinal0 [0x00DEC013+2474003]\n\tOrdinal0 [0x00D829C1+2042305]\n\tOrdinal0 [0x00C92F68+1060712]\n\tOrdinal0 [0x00CB188E+1185934]\n\tOrdinal0 [0x00CAD600+1168896]\n\tOrdinal0 [0x00CAAA83+1157763]\n\tOrdinal0 [0x00CDA2A2+1352354]\n\tOrdinal0 [0x00CD8FAA+1347498]\n\tOrdinal0 [0x00CD66DB+1337051]\n\tOrdinal0 [0x00CB3427+1192999]\n\tOrdinal0 [0x00CB42EE+1196782]\n\tOrdinal0 [0x00CB4279+1196665]\n\tGetHandleVerifier [0x00F796FC+1590332]\n\tGetHandleVerifier [0x01028614+2306900]\n\tGetHandleVerifier [0x00E79E93+543699]\n\tGetHandleVerifier [0x00E792CE+540686]\n\tOrdinal0 [0x00D886BA+2066106]\n\tOrdinal0 [0x00D8D1C8+2085320]\n\tOrdinal0 [0x00D8D308+2085640]\n\tOrdinal0 [0x00D967F3+2123763]\n\tBaseThreadInitThunk [0x7591FA29+25]\n\tRtlGetAppContainerNamedObjectPath [0x77027A9E+286]\n\tRtlGetAppContainerNamedObjectPath [0x77027A6E+238]\n",
+      "time" : {
+        "start" : 1632683046544,
+        "stop" : 1632683047588,
+        "duration" : 1044
+      }
+    }, {
+      "uid" : "dba082296b315ad0",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/12/allure/#testresult/dba082296b315ad0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617371682638,
+        "stop" : 1617371694257,
+        "duration" : 11619
+      }
+    }, {
+      "uid" : "db5e48b77d2449f7",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/11/allure/#testresult/db5e48b77d2449f7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617371271948,
+        "stop" : 1617371283765,
+        "duration" : 11817
+      }
+    }, {
+      "uid" : "3e5a0e0f2edba27f",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/10/allure/#testresult/3e5a0e0f2edba27f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617342540248,
+        "stop" : 1617342551530,
+        "duration" : 11282
+      }
+    }, {
+      "uid" : "9cb2cfe96f3ba66e",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/9/allure/#testresult/9cb2cfe96f3ba66e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1617203882866,
+        "stop" : 1617203895325,
+        "duration" : 12459
+      }
+    }, {
+      "uid" : "88e354cf8d6b9ae5",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/8/allure/#testresult/88e354cf8d6b9ae5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616639352575,
+        "stop" : 1616639364182,
+        "duration" : 11607
+      }
+    }, {
+      "uid" : "ab3b5bb5c209fc8",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/7/allure/#testresult/ab3b5bb5c209fc8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616637195139,
+        "stop" : 1616637207496,
+        "duration" : 12357
+      }
+    }, {
+      "uid" : "5f39145ae3992e60",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/6/allure/#testresult/5f39145ae3992e60",
+      "status" : "passed",
+      "time" : {
+        "start" : 1616636935810,
+        "stop" : 1616636949106,
+        "duration" : 13296
+      }
+    } ]
+  },
+  "42cb297b0569211951b4989d3bc7a515" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "ad5b7dd0daad32b5",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/23/allure/#testresult/ad5b7dd0daad32b5",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for presence of element located by: By.xpath: //body/div[@id='__next']/main[1]/div[2]/form[1]/div[1]/div[2]/span[1] (tried for 15 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1632774983372,
+        "stop" : 1632775003741,
+        "duration" : 20369
+      }
+    }, {
+      "uid" : "69ce6c088fd73d55",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/22/allure/#testresult/69ce6c088fd73d55",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for presence of element located by: By.xpath: //body/div[@id='__next']/main[1]/div[2]/form[1]/div[1]/div[2]/span[1] (tried for 15 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1632774983372,
+        "stop" : 1632775003741,
+        "duration" : 20369
+      }
+    } ]
+  },
+  "5f6afb269fbbafe733be6c58df9b80f6" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "f7fd76301f139d8a",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/23/allure/#testresult/f7fd76301f139d8a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632796021237,
+        "stop" : 1632796025737,
+        "duration" : 4500
+      }
+    }, {
+      "uid" : "5d0a4cd57b658f0",
+      "reportUrl" : "http://localhost:8080/job/Curso%20Selenium%20java%20Test/22/allure/#testresult/5d0a4cd57b658f0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1632774978284,
+        "stop" : 1632774983356,
+        "duration" : 5072
+      }
+    } ]
+  }
+}

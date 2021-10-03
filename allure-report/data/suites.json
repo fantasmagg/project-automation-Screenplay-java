@@ -1,0 +1,22 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "Examples",
+    "children" : [ {
+      "name" : "open spotifi",
+      "uid" : "9158166ee41952a8",
+      "parentUid" : "3791cf41749861c26006cd5b2b61c7a4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1633122105436,
+        "stop" : 1633122112772,
+        "duration" : 7336
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "3791cf41749861c26006cd5b2b61c7a4"
+  } ]
+}

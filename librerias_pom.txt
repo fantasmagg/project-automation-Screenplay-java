@@ -1,0 +1,19 @@
+librerias utilizadas screenplay
+1 selenium-java =version (3.141.59)
+2 testng = version(7.4.0)
+3 commons-io = version (2.8.0)
+4 JSON.simple = version 1.1.1
+5 io.cucumber =version 4.3.1
+6 log4j = version 1.2.17
+7 apache.poi = version 4.1.2
+8 jar para manejar el sql server = sqlijdbc41.jar
+9 apache poi-ooxml = version 5.0.0
+
+//NOTA es para que allure pueda leer de una mejor forma los pasos de cucumber si que los 
+// considere cada uno como un test individual
+10 cucumber-picocontainer= <version>1.2.5</version>
+11 allure=allure-cucumber4-jvm = <version>2.13.2</version>
+
+12 allure-testng=version 2.10.0
+13 webdrivermanager = version 3.7.1 (es para no tener que descargar los driver)
+

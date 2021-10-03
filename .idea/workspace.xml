@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8169943-d897-4149-b1f8-b0dc1cc68381" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1yI7DUQwfv4HzhNksTjGF3Z6xdZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\project-automation-Screenplay-java\src\main\resources" />
+      <recent name="C:\project-automation-Screenplay-java\src\test\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="test" />
+      <recent name="Actions" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\project-automation-Screenplay-java\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber java.Scenario: test of signIn and check title">
+    <configuration name="Scenario: test of signIn and check title" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/Features/base.feature" />
+      <option name="GLUE" value="StepDefinitions" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="project-automation-Screenplay-java" />
+      <option name="NAME_FILTER" value="^test of signIn and check title$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^test of signIn and check title$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: test of signIn and check title" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pruebaS" type="TestNG" editBeforeRun="true" singleton="false">
+      <module name="project-automation-Screenplay-java" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.prueba" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="C:\project-automation-Screenplay-java\src\test\java\test" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pue" type="TestNG" editBeforeRun="true" nameIsGenerated="true">
+      <module name="project-automation-Screenplay-java" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.pue" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testngs_my_store (2)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="project-automation-Screenplay-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.testngs_my_store" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testngs_my_store.Dwrite_email" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="project-automation-Screenplay-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.testngs_my_store" />
+      <option name="METHOD_NAME" value="Dwrite_email" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testngs_my_store.write_email" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="project-automation-Screenplay-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.testngs_my_store" />
+      <option name="METHOD_NAME" value="write_email" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testngs_with_parameter" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="project-automation-Screenplay-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.testngs_with_parameter" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.pruebaS" />
+      <item itemvalue="TestNG.pue" />
+      <item itemvalue="TestNG.testngs_my_store (2)" />
+      <item itemvalue="TestNG.testngs_my_store.write_email" />
+      <item itemvalue="TestNG.testngs_my_store.Dwrite_email" />
+      <item itemvalue="TestNG.testngs_with_parameter" />
+      <item itemvalue="Cucumber java.Scenario: test of signIn and check title" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.Scenario: test of signIn and check title" />
+        <item itemvalue="TestNG.testngs_my_store (2)" />
+        <item itemvalue="TestNG.testngs_with_parameter" />
+        <item itemvalue="TestNG.testngs_my_store.Dwrite_email" />
+        <item itemvalue="TestNG.testngs_my_store.write_email" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8169943-d897-4149-b1f8-b0dc1cc68381" name="Default Changelist" comment="" />
+      <created>1631927128211</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631927128211</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2269" y="0" width="596" height="720" key="#C:/project-automation-Screenplay-java/testng.xml" timestamp="1633146098349">
+      <screen x="1920" y="0" width="1280" height="720" />
+    </state>
+    <state x="2269" y="0" width="596" height="720" key="#C:/project-automation-Screenplay-java/testng.xml/1920.0.1280.720/0.0.1536.864@1920.0.1280.720" timestamp="1633146098349" />
+    <state x="2152" y="18" key="#Project_Structure" timestamp="1633117168103">
+      <screen x="1920" y="0" width="1280" height="720" />
+    </state>
+    <state x="2152" y="18" key="#Project_Structure/1920.0.1280.720/0.0.1536.864@1920.0.1280.720" timestamp="1633117168103" />
+    <state x="2014" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1633143028736">
+      <screen x="1920" y="0" width="1280" height="720" />
+    </state>
+    <state x="2014" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1280.720/0.0.1536.864@1920.0.1280.720" timestamp="1633143028736" />
+    <state x="2312" y="163" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1632504405238">
+      <screen x="1920" y="0" width="1280" height="720" />
+    </state>
+    <state x="2312" y="163" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1280.720/0.0.1536.864@1920.0.1280.720" timestamp="1632504405238" />
+    <state x="2199" y="47" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1632504317102">
+      <screen x="1920" y="0" width="1280" height="720" />
+    </state>
+    <state x="2199" y="47" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/1920.0.1280.720/0.0.1536.864@1920.0.1280.720" timestamp="1632504317102" />
+    <state x="2289" y="144" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1633145711594">
+      <screen x="1920" y="0" width="1280" height="720" />
+    </state>
+    <state x="2289" y="144" key="#com.intellij.ide.util.TreeClassChooserDialog/1920.0.1280.720/0.0.1536.864@1920.0.1280.720" timestamp="1633145711594" />
+    <state x="2255" y="285" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1633121538002">
+      <screen x="1920" y="0" width="1280" height="720" />
+    </state>
+    <state x="2255" y="285" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/1920.0.1280.720/0.0.1536.864@1920.0.1280.720" timestamp="1633121538002" />
+    <state x="2356" y="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1633116782810">
+      <screen x="1920" y="0" width="1280" height="720" />
+    </state>
+    <state x="2356" y="240" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/1920.0.1280.720/0.0.1536.864@1920.0.1280.720" timestamp="1633116782810" />
+    <state x="2290" y="107" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1633063429784">
+      <screen x="1920" y="0" width="1280" height="720" />
+    </state>
+    <state x="2290" y="107" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1280.720/0.0.1536.864@1920.0.1280.720" timestamp="1633063429784" />
+    <state x="2269" y="7" key="#prueba" timestamp="1633108128946">
+      <screen x="1920" y="0" width="1280" height="720" />
+    </state>
+    <state x="2269" y="7" key="#prueba/1920.0.1280.720/0.0.1536.864@1920.0.1280.720" timestamp="1633108128946" />
+    <state x="2269" y="7" key="#pruebaS" timestamp="1633110232133">
+      <screen x="1920" y="0" width="1280" height="720" />
+    </state>
+    <state x="2269" y="7" key="#pruebaS/1920.0.1280.720/0.0.1536.864@1920.0.1280.720" timestamp="1633110232133" />
+    <state x="2269" y="7" key="#pue" timestamp="1633108056835">
+      <screen x="1920" y="0" width="1280" height="720" />
+    </state>
+    <state x="2269" y="7" key="#pue/1920.0.1280.720/0.0.1536.864@1920.0.1280.720" timestamp="1633108056835" />
+    <state x="2269" y="7" key="#testngs_my_store_(1)" timestamp="1633145398406">
+      <screen x="1920" y="0" width="1280" height="720" />
+    </state>
+    <state x="2269" y="7" key="#testngs_my_store_(1)/1920.0.1280.720/0.0.1536.864@1920.0.1280.720" timestamp="1633145398406" />
+    <state x="2269" y="7" key="#testngs_my_store_(2)" timestamp="1633144637277">
+      <screen x="1920" y="0" width="1280" height="720" />
+    </state>
+    <state x="2269" y="7" key="#testngs_my_store_(2)/1920.0.1280.720/0.0.1536.864@1920.0.1280.720" timestamp="1633144637277" />
+    <state x="2340" y="115" key="FileChooserDialogImpl" timestamp="1633121655359">
+      <screen x="1920" y="0" width="1280" height="720" />
+    </state>
+    <state x="2340" y="115" key="FileChooserDialogImpl/1920.0.1280.720/0.0.1536.864@1920.0.1280.720" timestamp="1633121655359" />
+    <state width="1237" height="209" key="GridCell.Tab.0.bottom" timestamp="1633218132119">
+      <screen x="1920" y="0" width="1280" height="720" />
+    </state>
+    <state width="1493" height="255" key="GridCell.Tab.0.bottom/1920.0.1280.720/0.0.1536.864@0.0.1536.864" timestamp="1632971283894" />
+    <state width="1237" height="209" key="GridCell.Tab.0.bottom/1920.0.1280.720/0.0.1536.864@1920.0.1280.720" timestamp="1633218132119" />
+    <state width="1237" height="209" key="GridCell.Tab.0.center" timestamp="1633218132119">
+      <screen x="1920" y="0" width="1280" height="720" />
+    </state>
+    <state width="1493" height="255" key="GridCell.Tab.0.center/1920.0.1280.720/0.0.1536.864@0.0.1536.864" timestamp="1632971283894" />
+    <state width="1237" height="209" key="GridCell.Tab.0.center/1920.0.1280.720/0.0.1536.864@1920.0.1280.720" timestamp="1633218132119" />
+    <state width="1237" height="209" key="GridCell.Tab.0.left" timestamp="1633218132119">
+      <screen x="1920" y="0" width="1280" height="720" />
+    </state>
+    <state width="1493" height="255" key="GridCell.Tab.0.left/1920.0.1280.720/0.0.1536.864@0.0.1536.864" timestamp="1632971283894" />
+    <state width="1237" height="209" key="GridCell.Tab.0.left/1920.0.1280.720/0.0.1536.864@1920.0.1280.720" timestamp="1633218132119" />
+    <state width="1237" height="209" key="GridCell.Tab.0.right" timestamp="1633218132119">
+      <screen x="1920" y="0" width="1280" height="720" />
+    </state>
+    <state width="1493" height="255" key="GridCell.Tab.0.right/1920.0.1280.720/0.0.1536.864@0.0.1536.864" timestamp="1632971283894" />
+    <state width="1237" height="209" key="GridCell.Tab.0.right/1920.0.1280.720/0.0.1536.864@1920.0.1280.720" timestamp="1633218132119" />
+    <state width="1237" height="209" key="GridCell.Tab.1.bottom" timestamp="1633218132119">
+      <screen x="1920" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="209" key="GridCell.Tab.1.bottom/1920.0.1280.720/0.0.1536.864@1920.0.1280.720" timestamp="1633218132119" />
+    <state width="1237" height="209" key="GridCell.Tab.1.center" timestamp="1633218132119">
+      <screen x="1920" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="209" key="GridCell.Tab.1.center/1920.0.1280.720/0.0.1536.864@1920.0.1280.720" timestamp="1633218132119" />
+    <state width="1237" height="209" key="GridCell.Tab.1.left" timestamp="1633218132119">
+      <screen x="1920" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="209" key="GridCell.Tab.1.left/1920.0.1280.720/0.0.1536.864@1920.0.1280.720" timestamp="1633218132119" />
+    <state width="1237" height="209" key="GridCell.Tab.1.right" timestamp="1633218132119">
+      <screen x="1920" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="209" key="GridCell.Tab.1.right/1920.0.1280.720/0.0.1536.864@1920.0.1280.720" timestamp="1633218132119" />
+    <state x="2090" y="15" key="Maven.ArtifactSearchDialog" timestamp="1633053166677">
+      <screen x="1920" y="0" width="1280" height="720" />
+    </state>
+    <state x="2090" y="15" key="Maven.ArtifactSearchDialog/1920.0.1280.720/0.0.1536.864@1920.0.1280.720" timestamp="1633053166677" />
+    <state x="2040" y="0" key="SettingsEditor" timestamp="1632756436093">
+      <screen x="1920" y="0" width="1280" height="720" />
+    </state>
+    <state x="2040" y="0" key="SettingsEditor/1920.0.1280.720/0.0.1536.864@1920.0.1280.720" timestamp="1632756436093" />
+    <state x="2303" y="-27" width="807" height="705" maximized="true" key="dock-window-1" timestamp="1633235400899">
+      <screen x="1920" y="0" width="1280" height="720" />
+    </state>
+    <state x="2303" y="-27" width="807" height="705" maximized="true" key="dock-window-1/1920.0.1280.720/0.0.1536.864@1920.0.1280.720" timestamp="1633235400899" />
+    <state x="26" y="-13" width="1295" height="726" key="dock-window-2" timestamp="1633235439909">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="26" y="-13" width="1295" height="726" key="dock-window-2/1920.0.1280.720/0.0.1536.864@1920.0.1280.720" timestamp="1633235439909" />
+    <state x="1943" y="0" key="new project wizard" timestamp="1632974563385">
+      <screen x="1920" y="0" width="1280" height="720" />
+    </state>
+    <state x="1943" y="0" key="new project wizard/1920.0.1280.720/0.0.1536.864@1920.0.1280.720" timestamp="1632974563385" />
+    <state x="2312" y="281" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1633053100366">
+      <screen x="1920" y="0" width="1280" height="720" />
+    </state>
+    <state x="2312" y="281" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/1920.0.1280.720/0.0.1536.864@1920.0.1280.720" timestamp="1633053100366" />
+    <state x="2216" y="160" key="run.anything.popup" timestamp="1632007552957">
+      <screen x="1920" y="0" width="1280" height="720" />
+    </state>
+    <state x="2216" y="160" key="run.anything.popup/1920.0.1280.720/0.0.1536.864@1920.0.1280.720" timestamp="1632007552957" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Actions/ReasdExcelFile.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Actions/ReasdExcelFile.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Actions/ReasdExcelFile.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Actions/ReasdExcelFile.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Actions/ReasdExcelFile.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Actions/ReasdExcelFile.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Actions/ReasdExcelFile.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Actions/ReasdExcelFile.java</url>
+          <line>38</line>
+          <properties class="Actions.ReasdExcelFile" method="getCellValue">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

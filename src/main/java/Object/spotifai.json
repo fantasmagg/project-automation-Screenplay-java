@@ -1,0 +1,7 @@
+{
+
+"selector": {
+  "GetFieldBy": "Xpath",
+  "ValueToFind": "//select[@id='month']"
+}
+}

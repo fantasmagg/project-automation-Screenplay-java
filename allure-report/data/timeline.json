@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-4JLOV31H",
+    "children" : [ {
+      "name" : "3912@LAPTOP-4JLOV31H.main(1)",
+      "children" : [ {
+        "name" : "open spotifi",
+        "uid" : "9158166ee41952a8",
+        "parentUid" : "e6a9c07e33b8c26a7f2d784baf7e5cc9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1633122105436,
+          "stop" : 1633122112772,
+          "duration" : 7336
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e6a9c07e33b8c26a7f2d784baf7e5cc9"
+    } ],
+    "uid" : "3b2135a2fed5621d11b6372fb3da1375"
+  } ]
+}

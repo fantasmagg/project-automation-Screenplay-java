@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="4864" started-at="2021-10-01T23:41:44 BOT" finished-at="2021-10-01T23:41:49 BOT">
+    <groups>
+    </groups>
+    <test name="C:/project-automation-Screenplay-java/src/test/java/test" duration-ms="4864" started-at="2021-10-01T23:41:44 BOT" finished-at="2021-10-01T23:41:49 BOT">
+      <class name="test.testngs_my_store">
+        <test-method status="PASS" signature="setup()[pri:0, instance:test.testngs_my_store@72bd06ca]" name="setup" is-config="true" duration-ms="4616" started-at="2021-10-01T23:41:44 BOT" finished-at="2021-10-01T23:41:49 BOT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="signUp()[pri:2, instance:test.testngs_my_store@72bd06ca]" name="signUp" duration-ms="35" started-at="2021-10-01T23:41:49 BOT" finished-at="2021-10-01T23:41:49 BOT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUp -->
+        <test-method status="PASS" signature="web_title_check()[pri:1, instance:test.testngs_my_store@72bd06ca]" name="web_title_check" duration-ms="7" started-at="2021-10-01T23:41:49 BOT" finished-at="2021-10-01T23:41:49 BOT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- web_title_check -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:test.testngs_my_store@72bd06ca]" name="afterClass" is-config="true" duration-ms="53" started-at="2021-10-01T23:41:49 BOT" finished-at="2021-10-01T23:41:49 BOT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- test.testngs_my_store -->
+    </test> <!-- C:/project-automation-Screenplay-java/src/test/java/test -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

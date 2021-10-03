@@ -1,0 +1,33 @@
+{
+
+  "search_bar": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "(//*[@type='text'])[1]"
+  },
+  "signin": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//*[contains(text(),'Sign in')]"
+  },
+  "Already_registered": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//h3[contains(text(),'Already registered?')]"
+  },
+  "entity_Email_address_sigIn": {
+    "GetFieldBy": "id",
+    "ValueToFind": "email"
+  },
+  "emailPassword": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//*[@type='password']"
+  },
+  "butSignIn": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "//*[@name='SubmitLogin']"
+  },
+  "assertMyAccount": {
+    "GetFieldBy": "Xpath",
+    "ValueToFind": "(//*[contains(text(),'My account')])[3]"
+  }
+
+
+}
